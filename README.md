@@ -10,6 +10,6 @@ Command Prompt (Managing,Configuration and blocking)
 Windows Firewall (For blocking)
 
 **Steps used in the Project**
-Scaning Open Port Using Nmap (Running Command on CMD nmap -sS -P- "ADDRESS")
+Scaning Open Port Using Nmap (Running Command on CMD nmap -sS -p- "ADDRESS")
 finding Service Runing on Open Port ( netstat -ano | find "PORT NUMBER")
 Blocking port using Windows firewall (netsh advfirewall add rule name="Block PORTNUMBER"dir=in action=block protocol=TCP localport=PORTNUMBER)
