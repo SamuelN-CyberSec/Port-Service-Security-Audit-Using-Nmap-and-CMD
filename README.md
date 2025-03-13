@@ -1,3 +1,4 @@
+![Audit nmap](https://github.com/user-attachments/assets/6d68aaa5-3c35-48ae-80c8-e5ab4f76516a)
 # Port-Service-Security-Audit-Using-Nmap-and-CMD
 Open ports are unnecessary service that pose security risk by exposing system to attacks this project Identifies used and unused port, how to Identify and  disable using CMD and Nmap
 **Tool Used **
